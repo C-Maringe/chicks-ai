@@ -1,5 +1,5 @@
-# Tensorflow Object Detection Walkthrough
-<p>This set of Notebooks provides a complete set of code to be able to train
+# Tensorflow Object Detection Walkthrough for Chicks health detector
+<p>This set of Notebooks provides set of code to run the script
 
 ## Steps
 <br/><br/>
@@ -10,7 +10,6 @@ python -m venv tfod
 <br/>
 <b>Step 3.</b> Activate your virtual environment
 <pre>
-source tfod/bin/activate # Linux
 .\tfod\Scripts\activate # Windows 
 </pre>
 <br/>
